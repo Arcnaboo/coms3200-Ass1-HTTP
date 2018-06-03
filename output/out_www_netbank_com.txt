@@ -1,0 +1,40 @@
+HTTP Protocol Analyzer, Written by Arda Akgur, 43829114
+
+#####################################
+
+Url requested: www.netbank.com/
+
+Ip address, # Port of the server: 104.16.73.45,80
+
+Ip address, # Port of the client: 192.168.0.17,57951
+
+Reply code: 302
+
+Reply code meaning: Moved Temporarily
+
+Date: Fri, 23 Mar 2018 19:9:35 AEST
+
+Last-Modified: Not Included
+
+Content-Encoding: Not Included
+
+Moved to: https://www.netbank.com/
+
+#####################################
+
+Url requested: www.netbank.com/
+
+Ip address, # Port of the server: 104.16.73.45,443
+
+Ip address, # Port of the client: Did not connected to socket,0
+
+Reply code: 999
+
+Reply code meaning: SSL not implemented
+
+Date: Not Included
+
+Last-Modified: Not Included
+
+Content-Encoding: Not Included
+

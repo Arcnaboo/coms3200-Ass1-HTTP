@@ -1,0 +1,60 @@
+HTTP Protocol Analyzer, Written by Arda Akgur, 43829114
+
+#####################################
+
+Url requested: www.abc.com.au/news/sport
+
+Ip address, # Port of the server: 203.2.218.208,80
+
+Ip address, # Port of the client: 192.168.0.17,57942
+
+Reply code: 301
+
+Reply code meaning: Moved Permanently
+
+Date: Fri, 23 Mar 2018 19:8:33 AEST
+
+Last-Modified: Not Included
+
+Content-Encoding: Not Included
+
+Moved to: http://www.abc.net.au/news/sport
+
+#####################################
+
+Url requested: www.abc.net.au/news/sport
+
+Ip address, # Port of the server: 23.57.67.209,80
+
+Ip address, # Port of the client: 192.168.0.17,57943
+
+Reply code: 301
+
+Reply code meaning: Moved Permanently
+
+Date: Fri, 23 Mar 2018 19:8:34 AEST
+
+Last-Modified: Fri, 23 Mar 2018 19:7:37 AEST
+
+Content-Encoding: Not Included
+
+Moved to: /news/sport/
+
+#####################################
+
+Url requested: www.abc.net.au/news/sport/
+
+Ip address, # Port of the server: 23.57.67.209,80
+
+Ip address, # Port of the client: 192.168.0.17,57944
+
+Reply code: 200
+
+Reply code meaning: OK
+
+Date: Fri, 23 Mar 2018 19:8:34 AEST
+
+Last-Modified: Fri, 23 Mar 2018 19:6:47 AEST
+
+Content-Encoding: Not Included
+

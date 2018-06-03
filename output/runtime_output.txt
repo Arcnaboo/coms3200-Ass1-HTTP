@@ -1,0 +1,199 @@
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>cppapplication_1.exe
+COMS3200 - Assignment I - HTTP Protocol Analyser
+by Arda 'Arc' Akgur
+
+
+Attempting to initialize Winsock...Successfully initialized
+Creating Socket...Successfully created
+Please Enter website address: www.csiro.au/awap
+www.csiro.au/awap
+Analyzing: www.csiro.au/awap
+User Input: www.csiro.au/awap
+www.csiro.au resolved to : 150.229.12.170
+Trying to connect to 150.229.12.170... Connected.
+Client IP/PORT: 192.168.0.17/57935
+Sending: HEAD /awap HTTP/1.1
+Host: www.csiro.au
+
+HTTP Request Send to server
+Response received from server
+
+Creating Socket...Successfully created
+Analyzing: http://www.csiro.au/awap/
+New Host: www.csiro.au # New Path: /awap/
+www.csiro.au resolved to : 150.229.12.170
+Trying to connect to 150.229.12.170... Connected.
+Client IP/PORT: 192.168.0.17/57936
+Sending: HEAD /awap/ HTTP/1.1
+Host: www.csiro.au
+
+HTTP Request Send to server
+Response received from server
+
+Enter q/Q for quit..p/P for print results..s/S for save results to a file.
+Please enter response key to continue: s
+Please enter output file name(ex: out.txt): out_www_csiro_au_awap.txt
+Want to run the program again? Y/N n
+attempts to free analyzers..done
+attempts to free response..done
+Unloading Winsock library..
+Thank you for using Arc's HTTP protocol analyzer
+
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>cppapplication_1.exe
+COMS3200 - Assignment I - HTTP Protocol Analyser
+by Arda 'Arc' Akgur
+
+
+Attempting to initialize Winsock...Successfully initialized
+Creating Socket...Successfully created
+Please Enter website address: abc.net.au
+abc.net.au
+Analyzing: abc.net.au
+User Input: abc.net.au/
+abc.net.au resolved to : 203.2.218.214
+Trying to connect to 203.2.218.214... Connected.
+Client IP/PORT: 192.168.0.17/57939
+Sending: HEAD / HTTP/1.1
+Host: abc.net.au
+
+HTTP Request Send to server
+Response received from server
+
+Creating Socket...Successfully created
+Analyzing: http://www.abc.net.au/
+New Host: www.abc.net.au # New Path: /
+www.abc.net.au resolved to : 23.57.67.209
+Trying to connect to 23.57.67.209... Connected.
+Client IP/PORT: 192.168.0.17/57940
+Sending: HEAD / HTTP/1.1
+Host: www.abc.net.au
+
+HTTP Request Send to server
+Response received from server
+
+Enter q/Q for quit..p/P for print results..s/S for save results to a file.
+Please enter response key to continue: s
+Please enter output file name(ex: out.txt): out_abc_net_au.txt
+Want to run the program again? Y/N n
+attempts to free analyzers..done
+attempts to free response..done
+Unloading Winsock library..
+Thank you for using Arc's HTTP protocol analyzer
+
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>cppapplication_1.exe
+COMS3200 - Assignment I - HTTP Protocol Analyser
+by Arda 'Arc' Akgur
+
+
+Attempting to initialize Winsock...Successfully initialized
+Creating Socket...Successfully created
+Please Enter website address: www.abc.com.au/news/sport
+www.abc.com.au/news/sport
+Analyzing: www.abc.com.au/news/sport
+User Input: www.abc.com.au/news/sport
+www.abc.com.au resolved to : 203.2.218.208
+Trying to connect to 203.2.218.208... Connected.
+Client IP/PORT: 192.168.0.17/57942
+Sending: HEAD /news/sport HTTP/1.1
+Host: www.abc.com.au
+
+HTTP Request Send to server
+Response received from server
+
+Creating Socket...Successfully created
+Analyzing: http://www.abc.net.au/news/sport
+New Host: www.abc.net.au # New Path: /news/sport
+www.abc.net.au resolved to : 23.57.67.209
+Trying to connect to 23.57.67.209... Connected.
+Client IP/PORT: 192.168.0.17/57943
+Sending: HEAD /news/sport HTTP/1.1
+Host: www.abc.net.au
+
+HTTP Request Send to server
+Response received from server
+
+Creating Socket...Successfully created
+Analyzing: www.abc.net.au/news/sport/
+New Host: www.abc.net.au # New Path: /news/sport/
+www.abc.net.au resolved to : 23.57.67.209
+Trying to connect to 23.57.67.209... Connected.
+Client IP/PORT: 192.168.0.17/57944
+Sending: HEAD /news/sport/ HTTP/1.1
+Host: www.abc.net.au
+
+HTTP Request Send to server
+Response received from server
+
+Enter q/Q for quit..p/P for print results..s/S for save results to a file.
+Please enter response key to continue: s
+Please enter output file name(ex: out.txt): out_www_abc_com_au_news_sport.txt
+Want to run the program again? Y/N n
+attempts to free analyzers..done
+attempts to free response..done
+Unloading Winsock library..
+Thank you for using Arc's HTTP protocol analyzer
+
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>cppapplication_1.exe
+COMS3200 - Assignment I - HTTP Protocol Analyser
+by Arda 'Arc' Akgur
+
+
+Attempting to initialize Winsock...Successfully initialized
+Creating Socket...Successfully created
+Please Enter website address: www.abc.net.au/missing
+www.abc.net.au/missing
+Analyzing: www.abc.net.au/missing
+User Input: www.abc.net.au/missing
+www.abc.net.au resolved to : 23.57.67.134
+Trying to connect to 23.57.67.134... Connected.
+Client IP/PORT: 192.168.0.17/57946
+Sending: HEAD /missing HTTP/1.1
+Host: www.abc.net.au
+
+HTTP Request Send to server
+Response received from server
+
+Enter q/Q for quit..p/P for print results..s/S for save results to a file.
+Please enter response key to continue: s
+Please enter output file name(ex: out.txt): out_www_abc_net_au_missing.txt
+Want to run the program again? Y/N n
+attempts to free analyzers..done
+attempts to free response..done
+Unloading Winsock library..
+Thank you for using Arc's HTTP protocol analyzer
+
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>cppapplication_1.exe
+COMS3200 - Assignment I - HTTP Protocol Analyser
+by Arda 'Arc' Akgur
+
+
+Attempting to initialize Winsock...Successfully initialized
+Creating Socket...Successfully created
+Please Enter website address: www.netbank.com
+www.netbank.com
+Analyzing: www.netbank.com
+User Input: www.netbank.com/
+www.netbank.com resolved to : 104.16.73.45
+Trying to connect to 104.16.73.45... Connected.
+Client IP/PORT: 192.168.0.17/57951
+Sending: HEAD / HTTP/1.1
+Host: www.netbank.com
+
+HTTP Request Send to server
+Response received from server
+
+Creating Socket...Successfully created
+Analyzing: https://www.netbank.com/
+New Host: www.netbank.com # New Path: /
+www.netbank.com resolved to : 104.16.73.45
+SSL connection not implemented yet, cannot connect to: https://www.netbank.com/
+Enter q/Q for quit..p/P for print results..s/S for save results to a file.
+Please enter response key to continue: s
+Please enter output file name(ex: out.txt): out_www_netbank_com.txt
+Want to run the program again? Y/N n
+attempts to free analyzers..done
+attempts to free response..done
+Unloading Winsock library..
+Thank you for using Arc's HTTP protocol analyzer
+
+C:\Users\arc\Documents\NetBeansProjects\CppApplication_1\dist\Debug\MinGW-Windows>

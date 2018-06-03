@@ -1,0 +1,20 @@
+HTTP Protocol Analyzer, Written by Arda Akgur, 43829114
+
+#####################################
+
+Url requested: www.abc.net.au/missing
+
+Ip address, # Port of the server: 23.57.67.134,80
+
+Ip address, # Port of the client: 192.168.0.17,57946
+
+Reply code: 404
+
+Reply code meaning: Not Found
+
+Date: Fri, 23 Mar 2018 19:8:59 AEST
+
+Last-Modified: Not Included
+
+Content-Encoding: Not Included
+
